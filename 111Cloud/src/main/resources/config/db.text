@@ -1,0 +1,8 @@
+name=db.text
+url=jdbc
+name=root
+password=kk
+show=ddl
+
+
+#not working text file
